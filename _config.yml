@@ -1,0 +1,4 @@
+name: Travis Test
+markdown: redcarpet
+pygments: true
+permalink: pretty
