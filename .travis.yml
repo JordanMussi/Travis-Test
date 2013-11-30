@@ -2,3 +2,5 @@ language: ruby
 script:
   - "bundle exec jekyll doctor"
   - "bundle exec jekyll build --safe --trace"
+  - "jekyll doctor"
+  - "jekyll build --safe --trace"
